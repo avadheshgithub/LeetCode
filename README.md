@@ -4,7 +4,7 @@
 
 # Leetcode 🚀
 
-Welcome to my **Leetcode** repository! 🎉 This is where I solve and upload my solutions to Leetcode problems to sharpen my coding skillss. 💻
+Welcome to my **Leetcode** repository! 🎉 This is where I solve and upload my solutions to Leetcode problems to sharpen my coding skills. 💻
 
 ## About 📚
 
