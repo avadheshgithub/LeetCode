@@ -12,3 +12,15 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="Leetcode Logo"
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/avadheshgithub/LeetCode/tree/master/0319-bulb-switcher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/avadheshgithub/LeetCode/tree/master/0319-bulb-switcher) |
+<!---LeetCode Topics End-->
