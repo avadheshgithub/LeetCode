@@ -31,4 +31,8 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/avadheshgithub/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+## Array
+|  |
+| ------- |
+| [2057-smallest-index-with-equal-value](https://github.com/avadheshgithub/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 <!---LeetCode Topics End-->
