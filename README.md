@@ -18,6 +18,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/avadheshgithub/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0319-bulb-switcher](https://github.com/avadheshgithub/LeetCode/tree/master/0319-bulb-switcher) |
 ## Brainteaser
 |  |
@@ -34,12 +35,14 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/avadheshgithub/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/avadheshgithub/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/avadheshgithub/LeetCode/tree/master/0853-car-fleet) |
 | [2057-smallest-index-with-equal-value](https://github.com/avadheshgithub/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/avadheshgithub/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/avadheshgithub/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/avadheshgithub/LeetCode/tree/master/0853-car-fleet) |
 ## Monotonic Stack
