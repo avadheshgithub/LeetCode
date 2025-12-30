@@ -43,6 +43,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0150-evaluate-reverse-polish-notation](https://github.com/avadheshgithub/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/avadheshgithub/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/avadheshgithub/LeetCode/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/avadheshgithub/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/avadheshgithub/LeetCode/tree/master/0853-car-fleet) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -97,12 +98,14 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0155-min-stack](https://github.com/avadheshgithub/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/avadheshgithub/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/avadheshgithub/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/avadheshgithub/LeetCode/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/avadheshgithub/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/avadheshgithub/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/avadheshgithub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/avadheshgithub/LeetCode/tree/master/0622-design-circular-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/avadheshgithub/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
 |  |
@@ -116,4 +119,8 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/avadheshgithub/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/avadheshgithub/LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
