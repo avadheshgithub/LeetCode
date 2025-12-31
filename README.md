@@ -44,6 +44,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0134-gas-station](https://github.com/avadheshgithub/LeetCode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avadheshgithub/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/avadheshgithub/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/avadheshgithub/LeetCode/tree/master/0621-task-scheduler) |
@@ -81,6 +82,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/avadheshgithub/LeetCode/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/avadheshgithub/LeetCode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -100,6 +102,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avadheshgithub/LeetCode/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/avadheshgithub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/avadheshgithub/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/avadheshgithub/LeetCode/tree/master/0621-task-scheduler) |
@@ -124,6 +127,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/avadheshgithub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/avadheshgithub/LeetCode/tree/master/0621-task-scheduler) |
 ## Greedy
@@ -145,6 +149,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/avadheshgithub/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -153,11 +158,13 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -184,4 +191,8 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
