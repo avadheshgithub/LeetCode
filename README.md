@@ -51,6 +51,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0622-design-circular-queue](https://github.com/avadheshgithub/LeetCode/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/avadheshgithub/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/avadheshgithub/LeetCode/tree/master/0853-car-fleet) |
+| [0912-sort-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/avadheshgithub/LeetCode/tree/master/1046-last-stone-weight) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -85,6 +86,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/avadheshgithub/LeetCode/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/avadheshgithub/LeetCode/tree/master/0853-car-fleet) |
+| [0912-sort-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
@@ -152,6 +154,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/avadheshgithub/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0912-sort-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/avadheshgithub/LeetCode/tree/master/1046-last-stone-weight) |
 ## Divide and Conquer
@@ -159,6 +162,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -195,4 +199,17 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
