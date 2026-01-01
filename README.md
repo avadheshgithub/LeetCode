@@ -18,6 +18,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/avadheshgithub/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/avadheshgithub/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avadheshgithub/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/avadheshgithub/LeetCode/tree/master/0202-happy-number) |
@@ -231,4 +232,8 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/avadheshgithub/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
