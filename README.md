@@ -20,6 +20,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | ------- |
 | [0066-plus-one](https://github.com/avadheshgithub/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avadheshgithub/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/avadheshgithub/LeetCode/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/avadheshgithub/LeetCode/tree/master/0319-bulb-switcher) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Brainteaser
@@ -112,6 +113,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avadheshgithub/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/avadheshgithub/LeetCode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/avadheshgithub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/avadheshgithub/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -206,6 +208,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/avadheshgithub/LeetCode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Bucket Sort
 |  |
