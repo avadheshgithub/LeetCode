@@ -50,6 +50,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0503-next-greater-element-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/avadheshgithub/LeetCode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/avadheshgithub/LeetCode/tree/master/0622-design-circular-queue) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0739-daily-temperatures](https://github.com/avadheshgithub/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/avadheshgithub/LeetCode/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0912-sort-an-array) |
@@ -87,6 +88,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/avadheshgithub/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0853-car-fleet](https://github.com/avadheshgithub/LeetCode/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -112,6 +114,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0387-first-unique-character-in-a-string](https://github.com/avadheshgithub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/avadheshgithub/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/avadheshgithub/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Design
 |  |
 | ------- |
@@ -141,6 +144,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | ------- |
 | [0134-gas-station](https://github.com/avadheshgithub/LeetCode/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/avadheshgithub/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/avadheshgithub/LeetCode/tree/master/0649-dota2-senate) |
 ## Simulation
 |  |
@@ -158,6 +162,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/avadheshgithub/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -217,4 +222,8 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0912-sort-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
