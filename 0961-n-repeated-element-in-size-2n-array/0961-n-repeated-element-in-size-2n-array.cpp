@@ -1,13 +1,11 @@
 class Solution {
 public:
     int repeatedNTimes(vector<int>& nums) {
-        // n+1 unique mean --> ele if repeated even 2 times --> ans
+        // n time repeated --> ele present max gap of i-1 or i-2 --> ans
 
-        unordered_set<int>st;
-        for(auto x:nums){
-            if(st.find(x)!=st.end()) return x;
-            st.insert(x); 
+        for(int i=2;i<nums.size();i++){
+            if(nums[i]==nums[i-1] || nums[i]==nums[i-2]) return nums[i];
         }
-        return -1;
+        return nums.back();
     }
 };
