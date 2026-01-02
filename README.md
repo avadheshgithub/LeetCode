@@ -45,6 +45,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avadheshgithub/LeetCode/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/avadheshgithub/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/avadheshgithub/LeetCode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/avadheshgithub/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/avadheshgithub/LeetCode/tree/master/0134-gas-station) |
@@ -90,6 +91,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/avadheshgithub/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
