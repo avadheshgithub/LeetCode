@@ -47,6 +47,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | ------- |
 | [0001-two-sum](https://github.com/avadheshgithub/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/avadheshgithub/LeetCode/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/avadheshgithub/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/avadheshgithub/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/avadheshgithub/LeetCode/tree/master/0056-merge-intervals) |
@@ -114,6 +115,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/avadheshgithub/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/avadheshgithub/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -127,6 +129,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avadheshgithub/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/avadheshgithub/LeetCode/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/avadheshgithub/LeetCode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/avadheshgithub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
