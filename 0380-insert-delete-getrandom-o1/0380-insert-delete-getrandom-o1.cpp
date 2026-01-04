@@ -18,10 +18,10 @@ public:
         if(mp.count(x)==0) return false; // do not exiest
 
         int idx = mp[x];
-        int lastx = arr.back();
+        int lastVal = arr.back();
 
-        arr[idx] = lastx; // swap
-        mp[lastx] = idx;
+        arr[idx] = lastVal; // swap
+        mp[lastVal] = idx;
 
         arr.pop_back();
         mp.erase(x);
