@@ -55,6 +55,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0048-rotate-image](https://github.com/avadheshgithub/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/avadheshgithub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/avadheshgithub/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/avadheshgithub/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/avadheshgithub/LeetCode/tree/master/0066-plus-one) |
@@ -141,6 +142,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/avadheshgithub/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/avadheshgithub/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/avadheshgithub/LeetCode/tree/master/0055-jump-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/avadheshgithub/LeetCode/tree/master/0338-counting-bits) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -187,6 +189,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/avadheshgithub/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/avadheshgithub/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/avadheshgithub/LeetCode/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/avadheshgithub/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
