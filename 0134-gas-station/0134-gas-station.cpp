@@ -1,20 +1,21 @@
 class Solution {
 public:
     int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
-        int gasTo = accumulate(gas.begin(),gas.end(),0);
-        int costTo = accumulate(cost.begin(),cost.end(),0);
-        if(gasTo<costTo) return -1;
-
-        int start = 0;
-        int remGas = 0;
+        int TG = 0,TC = 0; // total cost < total Gas
+        int tanki = 0;
+        int stIdx = 0;
 
         for(int i=0;i<gas.size();i++){
-            if (remGas<0){
-                start = i;
-                remGas = 0;
+            TG += gas[i];
+            TC += cost[i];
+
+            tanki += gas[i]-cost[i]; // remaining gas in tanki
+
+            if(tanki<0){
+                stIdx=i+1;
+                tanki=0;
             }
-            remGas += gas[i]-cost[i];
         }
-        return start;
+        return (TG<TC) ? -1 : stIdx;
     }
 };
