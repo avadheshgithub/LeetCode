@@ -84,6 +84,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [1046-last-stone-weight](https://github.com/avadheshgithub/LeetCode/tree/master/1046-last-stone-weight) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/avadheshgithub/LeetCode/tree/master/1390-four-divisors) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/avadheshgithub/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2057-smallest-index-with-equal-value](https://github.com/avadheshgithub/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/avadheshgithub/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -200,6 +201,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/avadheshgithub/LeetCode/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/avadheshgithub/LeetCode/tree/master/0763-partition-labels) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/avadheshgithub/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Simulation
 |  |
 | ------- |
