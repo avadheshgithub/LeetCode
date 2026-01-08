@@ -42,6 +42,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0043-multiply-strings](https://github.com/avadheshgithub/LeetCode/tree/master/0043-multiply-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/avadheshgithub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/avadheshgithub/LeetCode/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/avadheshgithub/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/avadheshgithub/LeetCode/tree/master/0763-partition-labels) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/avadheshgithub/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
@@ -100,6 +101,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0232-implement-queue-using-stacks](https://github.com/avadheshgithub/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/avadheshgithub/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/avadheshgithub/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/avadheshgithub/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/avadheshgithub/LeetCode/tree/master/0853-car-fleet) |
 ## Monotonic Stack
@@ -150,6 +152,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0055-jump-game](https://github.com/avadheshgithub/LeetCode/tree/master/0055-jump-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/avadheshgithub/LeetCode/tree/master/0338-counting-bits) |
+| [0678-valid-parenthesis-string](https://github.com/avadheshgithub/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Hash Table
 |  |
@@ -201,6 +204,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0621-task-scheduler](https://github.com/avadheshgithub/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/avadheshgithub/LeetCode/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/avadheshgithub/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/avadheshgithub/LeetCode/tree/master/0763-partition-labels) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/avadheshgithub/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Simulation
