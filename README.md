@@ -22,6 +22,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0048-rotate-image](https://github.com/avadheshgithub/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/avadheshgithub/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/avadheshgithub/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/avadheshgithub/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avadheshgithub/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/avadheshgithub/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/avadheshgithub/LeetCode/tree/master/0231-power-of-two) |
@@ -155,6 +156,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0045-jump-game-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/avadheshgithub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/avadheshgithub/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/avadheshgithub/LeetCode/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/avadheshgithub/LeetCode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/avadheshgithub/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -333,6 +335,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/avadheshgithub/LeetCode/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Randomized
