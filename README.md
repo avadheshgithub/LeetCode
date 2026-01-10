@@ -8,7 +8,7 @@ Welcome to my **Leetcode** repository! 🎉 This is where I solve and upload my 
 
 ## About 📚
 
-This repository contains my solutions to various **Leetcode problems**. I regularly practice and upload solutions to improve my problem-solving skills and share my approaches with the communities. & 🌟
+This repository contains my solutions to various **Leetcode problems**. I regularly practice and upload solutions to improve my problem-solving skills and share my approaches with the communities.  🌟
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" height=200px width=200px alt="Leetcode Logo"
