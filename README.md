@@ -67,6 +67,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0059-spiral-matrix-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/avadheshgithub/LeetCode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/avadheshgithub/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/avadheshgithub/LeetCode/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/avadheshgithub/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/avadheshgithub/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avadheshgithub/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -161,6 +162,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0055-jump-game](https://github.com/avadheshgithub/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/avadheshgithub/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/avadheshgithub/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/avadheshgithub/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/avadheshgithub/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
