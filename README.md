@@ -65,6 +65,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0056-merge-intervals](https://github.com/avadheshgithub/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/avadheshgithub/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/avadheshgithub/LeetCode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/avadheshgithub/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/avadheshgithub/LeetCode/tree/master/0118-pascals-triangle) |
@@ -150,6 +151,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0048-rotate-image](https://github.com/avadheshgithub/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -162,6 +164,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0053-maximum-subarray](https://github.com/avadheshgithub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/avadheshgithub/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/avadheshgithub/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/avadheshgithub/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/avadheshgithub/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/avadheshgithub/LeetCode/tree/master/0198-house-robber) |
