@@ -21,6 +21,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0043-multiply-strings](https://github.com/avadheshgithub/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/avadheshgithub/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/avadheshgithub/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/avadheshgithub/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/avadheshgithub/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/avadheshgithub/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avadheshgithub/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -158,6 +159,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0045-jump-game-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/avadheshgithub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/avadheshgithub/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/avadheshgithub/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/avadheshgithub/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/avadheshgithub/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0213-house-robber-ii) |
@@ -356,4 +358,8 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0268-missing-number](https://github.com/avadheshgithub/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/avadheshgithub/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/avadheshgithub/LeetCode/tree/master/0371-sum-of-two-integers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/avadheshgithub/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
