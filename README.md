@@ -73,6 +73,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0134-gas-station](https://github.com/avadheshgithub/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/avadheshgithub/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avadheshgithub/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/avadheshgithub/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/avadheshgithub/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -169,6 +170,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0070-climbing-stairs](https://github.com/avadheshgithub/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/avadheshgithub/LeetCode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/avadheshgithub/LeetCode/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/avadheshgithub/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/avadheshgithub/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/avadheshgithub/LeetCode/tree/master/0322-coin-change) |
