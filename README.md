@@ -42,6 +42,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/avadheshgithub/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/avadheshgithub/LeetCode/tree/master/0043-multiply-strings) |
+| [0091-decode-ways](https://github.com/avadheshgithub/LeetCode/tree/master/0091-decode-ways) |
 | [0387-first-unique-character-in-a-string](https://github.com/avadheshgithub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/avadheshgithub/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/avadheshgithub/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -166,6 +167,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0062-unique-paths](https://github.com/avadheshgithub/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/avadheshgithub/LeetCode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/avadheshgithub/LeetCode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/avadheshgithub/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/avadheshgithub/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0213-house-robber-ii) |
