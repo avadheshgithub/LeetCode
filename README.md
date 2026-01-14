@@ -50,6 +50,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0678-valid-parenthesis-string](https://github.com/avadheshgithub/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/avadheshgithub/LeetCode/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/avadheshgithub/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/avadheshgithub/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/avadheshgithub/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
@@ -145,6 +146,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0853-car-fleet](https://github.com/avadheshgithub/LeetCode/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/avadheshgithub/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Binary Search
 |  |
 | ------- |
@@ -203,6 +205,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0763-partition-labels](https://github.com/avadheshgithub/LeetCode/tree/master/0763-partition-labels) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/avadheshgithub/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/avadheshgithub/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Design
 |  |
 | ------- |
@@ -242,6 +245,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0649-dota2-senate](https://github.com/avadheshgithub/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/avadheshgithub/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/avadheshgithub/LeetCode/tree/master/0763-partition-labels) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/avadheshgithub/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/avadheshgithub/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Simulation
 |  |
