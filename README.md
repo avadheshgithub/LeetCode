@@ -63,6 +63,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0011-container-with-most-water](https://github.com/avadheshgithub/LeetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/avadheshgithub/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/avadheshgithub/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/avadheshgithub/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/avadheshgithub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0054-spiral-matrix) |
@@ -403,6 +404,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/avadheshgithub/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/avadheshgithub/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
