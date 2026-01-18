@@ -115,6 +115,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [2073-time-needed-to-buy-tickets](https://github.com/avadheshgithub/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3689-maximum-total-subarray-value-i](https://github.com/avadheshgithub/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/avadheshgithub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Stack
 |  |
 | ------- |
@@ -158,6 +159,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/avadheshgithub/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/avadheshgithub/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [3745-maximize-expression-of-three-elements](https://github.com/avadheshgithub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -261,6 +263,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/avadheshgithub/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/avadheshgithub/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [3689-maximum-total-subarray-value-i](https://github.com/avadheshgithub/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/avadheshgithub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -412,4 +415,8 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0046-permutations](https://github.com/avadheshgithub/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/avadheshgithub/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0090-subsets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/avadheshgithub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
