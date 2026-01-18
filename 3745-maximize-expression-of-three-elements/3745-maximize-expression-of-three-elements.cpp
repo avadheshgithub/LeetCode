@@ -16,7 +16,6 @@ public:
             }
             
         }
-        cout<<maxi<<" "<<smax<< " "<<mini<<endl;
         return (maxi+smax)-mini;
     }
 };
