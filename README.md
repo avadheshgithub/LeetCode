@@ -114,6 +114,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/avadheshgithub/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2057-smallest-index-with-equal-value](https://github.com/avadheshgithub/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/avadheshgithub/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/avadheshgithub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3689-maximum-total-subarray-value-i](https://github.com/avadheshgithub/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/avadheshgithub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -221,6 +222,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0763-partition-labels](https://github.com/avadheshgithub/LeetCode/tree/master/0763-partition-labels) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/avadheshgithub/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/avadheshgithub/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/avadheshgithub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Design
 |  |
 | ------- |
@@ -246,6 +248,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/avadheshgithub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/avadheshgithub/LeetCode/tree/master/0621-task-scheduler) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/avadheshgithub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Greedy
 |  |
 | ------- |
