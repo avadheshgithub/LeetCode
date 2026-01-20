@@ -109,6 +109,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [1266-minimum-time-visiting-all-points](https://github.com/avadheshgithub/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/avadheshgithub/LeetCode/tree/master/1390-four-divisors) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avadheshgithub/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1701-average-waiting-time](https://github.com/avadheshgithub/LeetCode/tree/master/1701-average-waiting-time) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/avadheshgithub/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/avadheshgithub/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
@@ -133,6 +134,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0678-valid-parenthesis-string](https://github.com/avadheshgithub/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/avadheshgithub/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/avadheshgithub/LeetCode/tree/master/0853-car-fleet) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avadheshgithub/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/avadheshgithub/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Monotonic Stack
 |  |
@@ -142,6 +144,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0503-next-greater-element-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/avadheshgithub/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/avadheshgithub/LeetCode/tree/master/0853-car-fleet) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avadheshgithub/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/avadheshgithub/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Sorting
 |  |
