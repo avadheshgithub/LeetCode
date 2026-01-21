@@ -125,6 +125,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/avadheshgithub/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/avadheshgithub/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/avadheshgithub/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avadheshgithub/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/avadheshgithub/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/avadheshgithub/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -321,6 +322,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/avadheshgithub/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/avadheshgithub/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -340,6 +342,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/avadheshgithub/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/avadheshgithub/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -396,6 +399,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/avadheshgithub/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
