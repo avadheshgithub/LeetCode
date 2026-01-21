@@ -329,6 +329,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0110-balanced-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/avadheshgithub/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -345,6 +346,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0110-balanced-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/avadheshgithub/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -397,6 +399,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0199-binary-tree-right-side-view](https://github.com/avadheshgithub/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0572-subtree-of-another-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -458,4 +461,12 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [3745-maximize-expression-of-three-elements](https://github.com/avadheshgithub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
