@@ -8,7 +8,7 @@ public:
         root->right = temp;
 
         invertTree(root->left); // repeat for each node
-       invertTree(root->right);
+        invertTree(root->right);
 
         return root;
     }
