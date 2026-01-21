@@ -321,6 +321,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -330,6 +331,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -376,12 +378,14 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/avadheshgithub/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
