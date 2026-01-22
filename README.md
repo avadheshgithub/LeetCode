@@ -45,6 +45,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0032-longest-valid-parentheses](https://github.com/avadheshgithub/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/avadheshgithub/LeetCode/tree/master/0043-multiply-strings) |
 | [0091-decode-ways](https://github.com/avadheshgithub/LeetCode/tree/master/0091-decode-ways) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/avadheshgithub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/avadheshgithub/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/avadheshgithub/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -239,6 +240,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0225-implement-stack-using-queues](https://github.com/avadheshgithub/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/avadheshgithub/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/avadheshgithub/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0622-design-circular-queue](https://github.com/avadheshgithub/LeetCode/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -342,6 +344,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0226-invert-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/avadheshgithub/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -371,6 +374,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0226-invert-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/avadheshgithub/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -431,6 +435,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0226-invert-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/avadheshgithub/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -446,6 +451,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0104-maximum-depth-of-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/avadheshgithub/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/avadheshgithub/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
