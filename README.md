@@ -470,6 +470,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avadheshgithub/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/avadheshgithub/LeetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/avadheshgithub/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -492,6 +493,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0322-coin-change](https://github.com/avadheshgithub/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avadheshgithub/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/avadheshgithub/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/avadheshgithub/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/avadheshgithub/LeetCode/tree/master/0994-rotting-oranges) |
@@ -557,4 +559,9 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/avadheshgithub/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/avadheshgithub/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/avadheshgithub/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
