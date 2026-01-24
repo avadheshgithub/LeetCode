@@ -1,35 +1,27 @@
 class Solution {
 public:
-    void bfs(vector<vector<int>>& arr,vector<bool>&vis,int i){
-        queue<int>q;
-        q.push(i);
-        vis[i]=true;
+    void dfs(int curr, vector<vector<int>>& grid, vector<bool>& vis) {
+        vis[curr] = true;
 
-        while(!q.empty()){
-            int currCity = q.front();
-            q.pop();
-
-            for(int j=0;j<arr.size();j++){
-                if(arr[currCity][j]==1 && !vis[j]){
-                    vis[j] = true;
-                    q.push(j);
-                }
+        for(int j=0; j<grid.size(); j++) {
+            if(grid[curr][j] == 1 && !vis[j]) {
+                dfs(j, grid, vis);
             }
         }
     }
 
-    int findCircleNum(vector<vector<int>>& arr) {
-        int n = arr.size();
-        int province = 0;
+    int findCircleNum(vector<vector<int>>& grid) {
+        int n = grid.size();
+        vector<bool> vis(n, false);
 
-        vector<bool>vis(n,false);
+        int provinces = 0;
 
-        for(int i=0;i<n;i++){
-            if(!vis[i]){
-                bfs(arr,vis,i);
-                province++;
+        for(int i = 0; i < n; i++) {
+            if(!vis[i]) {
+                dfs(i, grid, vis);
+                provinces++;
             }
         }
-        return province;
+        return provinces;
     }
 };
