@@ -24,7 +24,7 @@ public:
 
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j]==1){
+                if(grid[i][j]==1 && !vis[i][j]){
                     int area = dfs(i,j,grid,vis,n,m);
                     maxArea = max(maxArea,area);
                 }
