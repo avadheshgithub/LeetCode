@@ -62,6 +62,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | ------- |
 | [0001-two-sum](https://github.com/avadheshgithub/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/avadheshgithub/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/avadheshgithub/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/avadheshgithub/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/avadheshgithub/LeetCode/tree/master/0046-permutations) |
@@ -160,6 +161,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/avadheshgithub/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/avadheshgithub/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/avadheshgithub/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -423,6 +425,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/avadheshgithub/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/avadheshgithub/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/avadheshgithub/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/avadheshgithub/LeetCode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0295-find-median-from-data-stream) |
