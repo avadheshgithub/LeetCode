@@ -76,6 +76,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0059-spiral-matrix-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/avadheshgithub/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/avadheshgithub/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/avadheshgithub/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/avadheshgithub/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -186,6 +187,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/avadheshgithub/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/avadheshgithub/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -199,6 +201,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0054-spiral-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/avadheshgithub/LeetCode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
