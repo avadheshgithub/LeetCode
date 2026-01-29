@@ -53,6 +53,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [1143-longest-common-subsequence](https://github.com/avadheshgithub/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/avadheshgithub/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/avadheshgithub/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/avadheshgithub/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -129,6 +130,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [2073-time-needed-to-buy-tickets](https://github.com/avadheshgithub/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/avadheshgithub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/avadheshgithub/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/avadheshgithub/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/avadheshgithub/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/avadheshgithub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -595,4 +597,9 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0133-clone-graph](https://github.com/avadheshgithub/LeetCode/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/avadheshgithub/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/avadheshgithub/LeetCode/tree/master/0684-redundant-connection) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/avadheshgithub/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/avadheshgithub/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
