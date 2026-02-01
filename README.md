@@ -316,6 +316,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/avadheshgithub/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/avadheshgithub/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/avadheshgithub/LeetCode/tree/master/0622-design-circular-queue) |
@@ -479,6 +480,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/avadheshgithub/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/avadheshgithub/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/avadheshgithub/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/avadheshgithub/LeetCode/tree/master/0231-power-of-two) |
