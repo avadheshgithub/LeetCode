@@ -141,6 +141,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0032-longest-valid-parentheses](https://github.com/avadheshgithub/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/avadheshgithub/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/avadheshgithub/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/avadheshgithub/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avadheshgithub/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avadheshgithub/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/avadheshgithub/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -321,6 +322,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avadheshgithub/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/avadheshgithub/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/avadheshgithub/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/avadheshgithub/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/avadheshgithub/LeetCode/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/avadheshgithub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -453,6 +455,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avadheshgithub/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/avadheshgithub/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/avadheshgithub/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/avadheshgithub/LeetCode/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/avadheshgithub/LeetCode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/avadheshgithub/LeetCode/tree/master/0455-assign-cookies) |
@@ -487,6 +490,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0010-regular-expression-matching](https://github.com/avadheshgithub/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/avadheshgithub/LeetCode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/avadheshgithub/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/avadheshgithub/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/avadheshgithub/LeetCode/tree/master/0231-power-of-two) |
 ## Depth-First Search
