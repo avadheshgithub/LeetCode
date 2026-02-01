@@ -317,6 +317,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | ------- |
 | [0206-reverse-linked-list](https://github.com/avadheshgithub/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/avadheshgithub/LeetCode/tree/master/0622-design-circular-queue) |
+| [0876-middle-of-the-linked-list](https://github.com/avadheshgithub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -448,6 +449,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0295-find-median-from-data-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/avadheshgithub/LeetCode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/avadheshgithub/LeetCode/tree/master/0763-partition-labels) |
+| [0876-middle-of-the-linked-list](https://github.com/avadheshgithub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Bucket Sort
 |  |
 | ------- |
