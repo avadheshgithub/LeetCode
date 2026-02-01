@@ -18,6 +18,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/avadheshgithub/LeetCode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/avadheshgithub/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/avadheshgithub/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/avadheshgithub/LeetCode/tree/master/0050-powx-n) |
@@ -316,6 +317,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/avadheshgithub/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avadheshgithub/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/avadheshgithub/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -481,6 +483,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/avadheshgithub/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/avadheshgithub/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/avadheshgithub/LeetCode/tree/master/0050-powx-n) |
