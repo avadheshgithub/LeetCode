@@ -43,6 +43,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/avadheshgithub/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/avadheshgithub/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/avadheshgithub/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/avadheshgithub/LeetCode/tree/master/0043-multiply-strings) |
 | [0091-decode-ways](https://github.com/avadheshgithub/LeetCode/tree/master/0091-decode-ways) |
@@ -138,6 +139,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/avadheshgithub/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/avadheshgithub/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/avadheshgithub/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/avadheshgithub/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
