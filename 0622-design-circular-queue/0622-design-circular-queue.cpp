@@ -1,6 +1,7 @@
 class MyCircularQueue {
 public:
-    int F=0,R=-1, size=0;
+
+    int F=0,R=-1,size=0;
     int capacity;
     vector<int>arr;
 
@@ -10,21 +11,21 @@ public:
     }
     
     bool enQueue(int value) {
-        if(isFull()) return false;
-        else{
+        if(!isFull()){
             R = (R+1)%capacity;
             arr[R]= value;
             size++;
         }
+        else return false;
         return true;
     }
     
     bool deQueue() {
-        if(isEmpty()) return false;
-        else{
+        if(!isEmpty()){
             F = (F+1)%capacity;
             size--;
         }
+        else return false;
         return true;
     }
     
@@ -40,11 +41,11 @@ public:
     
     bool isEmpty() {
         if(size==0) return true;
-        else return false;
+        return false;
     }
     
     bool isFull() {
         if(size==capacity) return true;
-        else return false;
+        return false;
     }
 };
