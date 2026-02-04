@@ -48,6 +48,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0032-longest-valid-parentheses](https://github.com/avadheshgithub/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/avadheshgithub/LeetCode/tree/master/0043-multiply-strings) |
 | [0091-decode-ways](https://github.com/avadheshgithub/LeetCode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/avadheshgithub/LeetCode/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/avadheshgithub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/avadheshgithub/LeetCode/tree/master/0649-dota2-senate) |
@@ -460,6 +461,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0018-4sum](https://github.com/avadheshgithub/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avadheshgithub/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/avadheshgithub/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/avadheshgithub/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/avadheshgithub/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/avadheshgithub/LeetCode/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/avadheshgithub/LeetCode/tree/master/0202-happy-number) |
