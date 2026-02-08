@@ -1,24 +1,33 @@
 class Solution {
 public:
-    TreeNode* BST(vector<int>& nums, int st, int end) {
-        if (st > end) return NULL;
+    ListNode* curr;
 
-        int mid = st + (end - st) / 2;
-        TreeNode* root = new TreeNode(nums[mid]);
+    TreeNode* BST(int st, int end) {
+        if(st>end) return NULL;
 
-        root->left = BST(nums, st, mid - 1);
-        root->right = BST(nums, mid + 1, end);
+        int mid = st + (end-st)/2; // [inOrder --> L Root R]
+
+        TreeNode* left = BST(st,mid-1); // Left
+
+        TreeNode* root = new TreeNode(curr->val); //Root
+        curr = curr->next;
+
+        root->left = left;
+        root->right = BST(mid+1,end); // Right
 
         return root;
     }
 
     TreeNode* sortedListToBST(ListNode* head) {
-        vector<int> nums;
+        int n = 0;
+        curr = head;
 
-        while (head != NULL) {         // linked List to Arr
-            nums.push_back(head->val);
-            head = head->next;
+        ListNode* temp = head;
+        while(temp!=NULL){
+            n++;
+            temp = temp->next;
         }
-        return BST(nums, 0, nums.size() - 1);
+
+        return BST(0,n-1);
     }
 };
