@@ -406,6 +406,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0230-kth-smallest-element-in-a-bst](https://github.com/avadheshgithub/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/avadheshgithub/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avadheshgithub/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -426,6 +427,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/avadheshgithub/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/avadheshgithub/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avadheshgithub/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -457,6 +459,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0230-kth-smallest-element-in-a-bst](https://github.com/avadheshgithub/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/avadheshgithub/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avadheshgithub/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0543-diameter-of-binary-tree) |
