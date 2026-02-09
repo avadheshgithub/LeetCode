@@ -1,40 +1,38 @@
 class Solution {
 public:
     vector<int> smallestRange(vector<vector<int>>& nums) {
-        int k = nums.size();
-        // int --> vector<int>
-        priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> pq;
-        
-        int maxEle = INT_MIN;
-        for(int i = 0; i < k; i++) {
+
+        priority_queue< tuple<int,int,int>,vector<tuple<int,int,int>>,greater<> > pq;
+
+        int maxVal = INT_MIN;
+
+        // Step 1. push 1st ele of each list
+        for (int i = 0; i < nums.size(); i++) {
             pq.push({nums[i][0], i, 0});
-            maxEle = max(maxEle, nums[i][0]);
+            maxVal = max(maxVal, nums[i][0]);
         }
-        
-        vector<int> resultRange = {-1000000, 1000000};
-        
-        while(!pq.empty()) {
-            vector<int> curr = pq.top();
+
+        int rangeStart = 0, rangeEnd = INT_MAX;
+
+        while (true) {
+            auto [minVal, row, col] = pq.top();
             pq.pop();
-            
-            int minEle = curr[0];
-            int listIdx = curr[1];
-            int idx = curr[2];
-            
-            if(maxEle - minEle < resultRange[1] - resultRange[0]) {
-                resultRange[0] = minEle;
-                resultRange[1] = maxEle;
+
+            // Step 2: update best range
+            if (maxVal - minVal < rangeEnd - rangeStart) {
+                rangeStart = minVal;
+                rangeEnd = maxVal;
             }
-            
-            if(idx + 1 < nums[listIdx].size()) {
-                int nextElement = nums[listIdx][idx + 1];
-                pq.push({nextElement, listIdx, idx + 1});
-                maxEle = max(maxEle, nextElement);
-            }
-            else {
+
+            // Step 3: move forward in the same list
+            if (col + 1 == nums[row].size())
                 break;
-            }
+
+            int nextVal = nums[row][col + 1];
+            pq.push({nextVal, row, col + 1});
+            maxVal = max(maxVal, nextVal);
         }
-        return resultRange;
+
+        return {rangeStart, rangeEnd};
     }
 };
