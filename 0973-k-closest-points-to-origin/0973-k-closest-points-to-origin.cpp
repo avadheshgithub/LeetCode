@@ -1,25 +1,19 @@
 class Solution {
 public:
-    struct comp {
-        bool operator()(const vector<int>& a, const vector<int>& b) {
-            return (a[0]*a[0] + a[1]*a[1]) < (b[0]*b[0] + b[1]*b[1]);
-        }
-    };
-
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-        priority_queue<vector<int>, vector<vector<int>>, comp> pq;//max heap
+        priority_queue< pair<int,vector<int>>,vector<pair<int, vector<int>>>, greater<> > pq;
 
-        for(auto point:points){
-            pq.push(point);
-            if(pq.size()>k) pq.pop();
+        for(auto x:points){
+            int dist = x[0]*x[0] + x[1]*x[1];
+            pq.push({dist,x});
         }
 
         vector<vector<int>>ans;
-        for(int i=0;i<k;i++){
-            ans.push_back(pq.top());
+        while(k--){
+            ans.push_back(pq.top().second);
             pq.pop();
         }
-        return ans;
 
+        return ans;
     }
 };
