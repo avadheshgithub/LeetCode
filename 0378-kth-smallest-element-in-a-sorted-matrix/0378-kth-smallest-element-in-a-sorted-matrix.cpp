@@ -1,29 +1,32 @@
 class Solution {
 public:
-    int countLessEqual(const vector<vector<int>>& mat, int x) {
+    int countLessEqual(const vector<vector<int>>& mat, int mid) {
         int n = mat.size();
-        int cnt = 0;
+        int m = mat[0].size();
+        int count = 0;
+
+        int row = n-1;
+        int col = 0;
         
-        for (int i=0,j=n-1;i<n && j>=0;){
-            if (mat[i][j] <= x) {
-                cnt += j + 1;
-                i++;
-            } else {
-                j--;
+        while(row>=0 && col<m){
+            if(mat[row][col]<=mid){
+                count += row+1;
+                col++;
             }
+            else row--;
         }
-        return cnt;
+        return count;
     }
 
-    int kthSmallest(vector<vector<int>>& matrix, int k) {
-        int n = matrix.size();
-        int L = matrix[0][0];
-        int R = matrix[n-1][n-1];
+    int kthSmallest(vector<vector<int>>& mat, int k) {
+        int n = mat.size();
+        int L = mat[0][0];
+        int R = mat[n-1][n-1];
         
         while(L<R){
             int mid = L+(R-L)/2;
             
-            int count = countLessEqual(matrix, mid);
+            int count = countLessEqual(mat, mid);
             
             if (count<k) L = mid + 1;
             else R = mid;
