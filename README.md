@@ -51,6 +51,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0043-multiply-strings](https://github.com/avadheshgithub/LeetCode/tree/master/0043-multiply-strings) |
 | [0091-decode-ways](https://github.com/avadheshgithub/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/avadheshgithub/LeetCode/tree/master/0125-valid-palindrome) |
+| [0214-shortest-palindrome](https://github.com/avadheshgithub/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/avadheshgithub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/avadheshgithub/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -674,10 +675,12 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/avadheshgithub/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/avadheshgithub/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Union-Find
 |  |
@@ -697,4 +700,8 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/avadheshgithub/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/avadheshgithub/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
