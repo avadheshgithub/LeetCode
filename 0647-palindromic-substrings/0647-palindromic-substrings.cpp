@@ -2,7 +2,7 @@ class Solution {
 public:
     int checkPalindrome(string s,int L, int R){
         int count=0;
-        while(L>=0 && R<=s.length() && s[L]==s[R]){
+        while(L>=0 && R<s.length() && s[L]==s[R]){
             count++;
             L--;
             R++;
