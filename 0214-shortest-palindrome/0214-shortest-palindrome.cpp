@@ -7,7 +7,7 @@ public:
         string temp = s + "#" + rev;
         int n = temp.size();
 
-        vector<int> lps(n, 0);
+        vector<int> lps(n, 0); // KMP Algo
 
         for(int i = 1; i < n; i++){
             int j = lps[i-1];
