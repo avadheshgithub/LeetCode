@@ -343,6 +343,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0141-linked-list-cycle](https://github.com/avadheshgithub/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/avadheshgithub/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/avadheshgithub/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/avadheshgithub/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/avadheshgithub/LeetCode/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/avadheshgithub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
