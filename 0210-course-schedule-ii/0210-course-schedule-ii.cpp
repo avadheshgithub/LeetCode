@@ -1,67 +1,66 @@
 class Solution {
 public:
-    bool isCycleDFS(int src,vector<bool>&vis,vector<bool>&recPath,vector<vector<int>>&edges){
-        vis[src]= true;
-        recPath[src]= true;
 
-        for(int i=0;i<edges.size();i++){ 
-            int v = edges[i][0];  // [1 V,0 U] --> (0->1) U-->V
-            int u = edges[i][1];
+    bool isCycleDFS(int src, vector<bool>& vis,vector<bool>& recPath,vector<vector<int>>& adj) {
 
-            if(u==src){
-                if(!vis[v]){
-                    if(isCycleDFS(v,vis,recPath,edges)) return true;
-                }
-                else if(recPath[v]){ //--> BackEdge Cycle
+        vis[src] = true;
+        recPath[src] = true;
+
+        for (int v : adj[src]) { 
+            if (!vis[v]) {
+                if (isCycleDFS(v, vis, recPath, adj))
                     return true;
-                }
+            }
+            else if (recPath[v]) {
+                return true;
             }
         }
+
         recPath[src] = false;
         return false;
     }
 
-    void topoOrder(int src,vector<bool>&vis,stack<int>&st,vector<vector<int>>&edges){
+    void topoOrder(int src,vector<bool>& vis,stack<int>& st,vector<vector<int>>& adj) {
+
         vis[src] = true;
 
-        for(int i=0;i<edges.size();i++){ 
-            int v = edges[i][0];  
-            int u = edges[i][1];
-
-            if(u==src){
-                if(!vis[v]){
-                    topoOrder(v,vis,st,edges);
-                }
+        for (int v : adj[src]) {  
+            if (!vis[v]) {
+                topoOrder(v, vis, st, adj);
             }
         }
         st.push(src);
     }
 
     vector<int> findOrder(int n, vector<vector<int>>& edges) {
-        vector<bool>vis(n,false);
-        vector<bool>recPath(n,false);
 
-        for(int i=0;i<n;i++){  //--> for disconnected Graph
-            if(!vis[i]){
-                if(isCycleDFS(i,vis,recPath,edges)) return {};
-            }
+        vector<vector<int>> adj(n);     // adjacency List
+        for (auto &e : edges) {
+            adj[e[1]].push_back(e[0]);   // u → v
         }
-        
-        vis.assign(n,false);
-        stack<int>st;
 
-        for(int i=0;i<n;i++){  //--> for disconnected Graph
-            if(!vis[i]){
-                topoOrder(i,vis,st,edges);
+        vector<bool> vis(n, false);
+        vector<bool> recPath(n, false);
+
+        for(int i=0; i<n; i++) { // Cycle Detection
+            if (!vis[i]) {
+                if (isCycleDFS(i, vis, recPath, adj)) return {};
             }
         }
 
-        vector<int>ans; // store ans
-        while(!st.empty()){
+        vis.assign(n, false);
+        stack<int> st;
+        for(int i=0; i<n; i++) {  // Topological Sort
+            if (!vis[i]) {
+                topoOrder(i, vis, st, adj);
+            }
+        }
+
+        vector<int> ans;
+        while (!st.empty()) {
             ans.push_back(st.top());
             st.pop();
         }
         return ans;
-
     }
 };
