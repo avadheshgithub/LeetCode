@@ -581,6 +581,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0145-binary-tree-postorder-traversal](https://github.com/avadheshgithub/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/avadheshgithub/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/avadheshgithub/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/avadheshgithub/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/avadheshgithub/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -617,6 +618,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0133-clone-graph](https://github.com/avadheshgithub/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/avadheshgithub/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/avadheshgithub/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/avadheshgithub/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/avadheshgithub/LeetCode/tree/master/0322-coin-change) |
@@ -642,6 +644,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/avadheshgithub/LeetCode/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Memoization
@@ -703,6 +706,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/avadheshgithub/LeetCode/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/avadheshgithub/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/avadheshgithub/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/avadheshgithub/LeetCode/tree/master/0684-redundant-connection) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/avadheshgithub/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
