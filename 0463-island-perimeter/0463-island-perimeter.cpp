@@ -1,19 +1,18 @@
 class Solution {
 public:
-    int dfs(int i, int j, int m, int n,vector<vector<int>>& grid,vector<vector<bool>>& vis) {
-        
-        if (i<0 || j<0 || i>=m || j>=n || grid[i][j] == 0) return 1;
+    int dfs(int i, int j, int m, int n, vector<vector<int>>& grid) {
+        if (i < 0 || j < 0 || i >= m || j >= n || grid[i][j] == 0) return 1;
 
-        if (vis[i][j]) return 0; // alreadt visited --> contibute 0
+        if (grid[i][j] == 2) return 0; // already visited
 
-        vis[i][j] = true;
+        grid[i][j] = 2; // mark visited
 
         int perimeter = 0;
 
-        perimeter += dfs(i-1, j, m, n, grid, vis); // up
-        perimeter += dfs(i+1, j, m, n, grid, vis); // down
-        perimeter += dfs(i, j-1, m, n, grid, vis); // left
-        perimeter += dfs(i, j+1, m, n, grid, vis); // right
+        perimeter += dfs(i-1, j, m, n, grid);
+        perimeter += dfs(i+1, j, m, n, grid);
+        perimeter += dfs(i, j-1, m, n, grid);
+        perimeter += dfs(i, j+1, m, n, grid);
 
         return perimeter;
     }
@@ -22,16 +21,13 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        vector<vector<bool>> vis(m, vector<bool>(n, false));
-
         for(int i = 0; i < m; i++) {
             for(int j = 0; j < n; j++) {
                 if(grid[i][j] == 1) {
-                    return dfs(i, j, m, n, grid, vis);
+                    return dfs(i, j, m, n, grid);
                 }
             }
         }
-
         return 0;
     }
 };
