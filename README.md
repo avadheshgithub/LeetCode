@@ -146,6 +146,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/avadheshgithub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/avadheshgithub/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/avadheshgithub/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/avadheshgithub/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/avadheshgithub/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -242,6 +243,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0994-rotting-oranges](https://github.com/avadheshgithub/LeetCode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -612,6 +614,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [1448-count-good-nodes-in-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/avadheshgithub/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -646,6 +649,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [1448-count-good-nodes-in-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/avadheshgithub/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -713,6 +717,7 @@ This repository contains my solutions to various **Leetcode problems**. I regula
 | [0547-number-of-provinces](https://github.com/avadheshgithub/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/avadheshgithub/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/avadheshgithub/LeetCode/tree/master/0695-max-area-of-island) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
