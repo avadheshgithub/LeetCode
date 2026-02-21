@@ -12,10 +12,13 @@ public:
         double result = 1.0;
         double current = x;
         
-        for (long long i=N; i>0; i/=2) {
-            if(i%2==1) result *= current;   //odd
-            current *= current;     //even
+        for (long long i = N; i > 0; i /= 2) {
+            if (i % 2 == 1) {
+                result *= current;
+            }
+            current *= current;
         }
+        
         return result;
     }
 };
