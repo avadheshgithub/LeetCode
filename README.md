@@ -65,6 +65,7 @@ Codeforce -
 | [0091-decode-ways](https://github.com/avadheshgithub/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/avadheshgithub/LeetCode/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/avadheshgithub/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/avadheshgithub/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/avadheshgithub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/avadheshgithub/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -207,6 +208,7 @@ Codeforce -
 | [0056-merge-intervals](https://github.com/avadheshgithub/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/avadheshgithub/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/avadheshgithub/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/avadheshgithub/LeetCode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/avadheshgithub/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -297,6 +299,7 @@ Codeforce -
 | [0133-clone-graph](https://github.com/avadheshgithub/LeetCode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/avadheshgithub/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/avadheshgithub/LeetCode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/avadheshgithub/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/avadheshgithub/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/avadheshgithub/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
