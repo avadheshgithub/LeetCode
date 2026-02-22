@@ -3,7 +3,7 @@ public:
     int dfs(int i, int j, vector<vector<int>>& grid, int n, int m){
         if(i < 0 || j < 0 || i >= n || j >= m || grid[i][j] != 1) return 0;
         
-        grid[i][j] = 0;
+        grid[i][j] = 0; // Mark visited
 
         int area = 1;
 
