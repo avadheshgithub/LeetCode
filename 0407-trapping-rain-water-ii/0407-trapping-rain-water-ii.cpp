@@ -1,10 +1,10 @@
 class Solution {
 public:
-    int trapRainWater(vector<vector<int>>& heightMap) {
-        if (heightMap.empty() || heightMap[0].empty()) return 0;
+    int trapRainWater(vector<vector<int>>& Arr) {
+        if (Arr.empty() || Arr[0].empty()) return 0;
         
-        int m = heightMap.size();
-        int n = heightMap[0].size();
+        int m = Arr.size();
+        int n = Arr[0].size();
         
         // Min heap: {height, row, col}
         priority_queue<tuple<int,int,int>, vector<tuple<int,int,int>>,greater<tuple<int,int,int>>> pq;
@@ -12,14 +12,14 @@ public:
         vector<vector<bool>> visited(m, vector<bool>(n, false));
         //Push all boundary cells
         for (int i = 0; i < m; i++) {
-            pq.emplace(heightMap[i][0], i, 0);
-            pq.emplace(heightMap[i][n-1], i, n-1);
+            pq.emplace(Arr[i][0], i, 0);
+            pq.emplace(Arr[i][n-1], i, n-1);
             visited[i][0] = visited[i][n-1] = true;
         }
         
         for (int j = 0; j < n; j++) {
-            pq.emplace(heightMap[0][j], 0, j);
-            pq.emplace(heightMap[m-1][j], m-1, j);
+            pq.emplace(Arr[0][j], 0, j);
+            pq.emplace(Arr[m-1][j], m-1, j);
             visited[0][j] = visited[m-1][j] = true;
         }
         
@@ -39,14 +39,13 @@ public:
                     visited[nx][ny] = true;
                     
                     // Water trapped
-                    water += max(0, height - heightMap[nx][ny]);
+                    water += max(0, height - Arr[nx][ny]);
                     
                     // Push with updated height
-                    pq.emplace(max(height, heightMap[nx][ny]), nx, ny);
+                    pq.emplace(max(height, Arr[nx][ny]), nx, ny);
                 }
             }
         }
-        
         return water;
     }
 };
