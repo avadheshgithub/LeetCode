@@ -10,7 +10,6 @@ public:
         priority_queue<tuple<int,int,int>, vector<tuple<int,int,int>>,greater<tuple<int,int,int>>> pq;
         
         vector<vector<bool>> visited(m, vector<bool>(n, false));
-        
         //Push all boundary cells
         for (int i = 0; i < m; i++) {
             pq.emplace(heightMap[i][0], i, 0);
