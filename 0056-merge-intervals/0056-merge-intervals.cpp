@@ -1,12 +1,12 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        sort(intervals.begin(),intervals.end()); //VVIMP problem
+    vector<vector<int>> merge(vector<vector<int>>& arr) {
+        sort(arr.begin(),arr.end()); 
 
         vector<vector<int>>ans;
-        for(auto x:intervals){
-            if(ans.empty() || ans.back()[1]<x[0]) ans.push_back(x);
-            else ans.back()[1] = max(ans.back()[1],x[1]);
+        for(auto e:arr){
+            if(ans.empty() || ans.back()[1]<e[0]) ans.push_back(e);
+            else ans.back()[1] = max(ans.back()[1],e[1]);
         }
         return ans;
     }
