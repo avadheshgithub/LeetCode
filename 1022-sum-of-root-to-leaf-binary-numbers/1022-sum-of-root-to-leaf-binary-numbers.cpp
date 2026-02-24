@@ -3,9 +3,9 @@ public:
     int inOrder(TreeNode* root,int s){
         if (root==NULL) return 0;
 
-        s = (s << 1)|root->val; // binary->decimal
+        s = (s<<1)|root->val; // binary->decimal
 
-        if (root->left == NULL && root->right == NULL) return s;
+        if (!root->left && !root->right) return s;
 
         return inOrder(root->left, s) +  inOrder(root->right, s);
     }
