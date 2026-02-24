@@ -5,15 +5,15 @@ public:
         int neg = 0;
         int minAbs = INT_MAX;
 
-        for (auto &R : matrix) {
-            for (int val : R) {
+        for(auto &R : matrix) {
+            for(int val : R) {
                 if (val < 0) neg++;
                 total += abs(val);
                 minAbs = min(minAbs, abs(val));
             }
         }
 
-        if (neg % 2 == 0) return total;
-        else return total - 2LL * minAbs;
+        if(neg%2==0) return total;
+        return total - 2LL * minAbs;
     }
 };
