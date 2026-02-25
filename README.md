@@ -152,6 +152,7 @@ Codeforce -
 | [1200-minimum-absolute-difference](https://github.com/avadheshgithub/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/avadheshgithub/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avadheshgithub/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/avadheshgithub/LeetCode/tree/master/1390-four-divisors) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avadheshgithub/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1701-average-waiting-time](https://github.com/avadheshgithub/LeetCode/tree/master/1701-average-waiting-time) |
@@ -225,6 +226,7 @@ Codeforce -
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/avadheshgithub/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avadheshgithub/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/avadheshgithub/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/avadheshgithub/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/avadheshgithub/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
@@ -345,6 +347,7 @@ Codeforce -
 | [0347-top-k-frequent-elements](https://github.com/avadheshgithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/avadheshgithub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/avadheshgithub/LeetCode/tree/master/0621-task-scheduler) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avadheshgithub/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/avadheshgithub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Greedy
 |  |
@@ -715,6 +718,7 @@ Codeforce -
 | [0268-missing-number](https://github.com/avadheshgithub/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/avadheshgithub/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/avadheshgithub/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avadheshgithub/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/avadheshgithub/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Combinatorics
 |  |
