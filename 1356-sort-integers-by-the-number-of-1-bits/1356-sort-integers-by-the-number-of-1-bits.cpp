@@ -1,7 +1,8 @@
 class Solution {
 public:
     vector<int> sortByBits(vector<int>& arr) {
-        auto cntBits = [](int x) {
+        
+        auto countBits = [](int x) {
             int count = 0;
             while(x) {
                 count += (x & 1);
@@ -11,12 +12,15 @@ public:
         };
 
         sort(arr.begin(), arr.end(), [&](int a, int b) {
-            int bitA = cntBits(a);
-            int bitB = cntBits(b);
+            int bitsA = countBits(a);
+            int bitsB = countBits(b);
 
-            if(bitA == bitB) return a < b;
-            return bitA < bitB;
+            if(bitsA == bitsB)
+                return a < b;
+
+            return bitsA < bitsB;
         });
+
         return arr;
     }
 };
