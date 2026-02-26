@@ -5,6 +5,7 @@ public:
         int carry = 0;
          
         for(int i = s.length() - 1; i > 0; i--) {
+            // dek
             int bit = (s[i] - '0') + carry;
             if(bit % 2 == 0) {
                 steps += 1;
