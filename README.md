@@ -39,6 +39,7 @@ Teachers Day Challenge:-
 | [1266-minimum-time-visiting-all-points](https://github.com/avadheshgithub/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/avadheshgithub/LeetCode/tree/master/1390-four-divisors) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/avadheshgithub/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Brainteaser
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Teachers Day Challenge:-
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/avadheshgithub/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/avadheshgithub/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/avadheshgithub/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -677,6 +679,7 @@ Teachers Day Challenge:-
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/avadheshgithub/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph
 |  |
 | ------- |
@@ -747,6 +750,7 @@ Teachers Day Challenge:-
 | [0684-redundant-connection](https://github.com/avadheshgithub/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/avadheshgithub/LeetCode/tree/master/0695-max-area-of-island) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
 |  |
 | ------- |
@@ -769,4 +773,8 @@ Teachers Day Challenge:-
 |  |
 | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/avadheshgithub/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
