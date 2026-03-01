@@ -69,6 +69,7 @@ Teachers Day Challenge:-
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/avadheshgithub/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/avadheshgithub/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/avadheshgithub/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/avadheshgithub/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/avadheshgithub/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/avadheshgithub/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -360,6 +361,7 @@ Teachers Day Challenge:-
 | [0763-partition-labels](https://github.com/avadheshgithub/LeetCode/tree/master/0763-partition-labels) |
 | [1382-balance-a-binary-search-tree](https://github.com/avadheshgithub/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/avadheshgithub/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/avadheshgithub/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/avadheshgithub/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1975-maximum-matrix-sum](https://github.com/avadheshgithub/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/avadheshgithub/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
