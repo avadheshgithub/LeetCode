@@ -152,6 +152,7 @@ Teachers Day Challenge:-
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avadheshgithub/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/avadheshgithub/LeetCode/tree/master/1390-four-divisors) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avadheshgithub/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1701-average-waiting-time](https://github.com/avadheshgithub/LeetCode/tree/master/1701-average-waiting-time) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/avadheshgithub/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1975-maximum-matrix-sum](https://github.com/avadheshgithub/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -262,6 +263,7 @@ Teachers Day Challenge:-
 | [0733-flood-fill](https://github.com/avadheshgithub/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/avadheshgithub/LeetCode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/avadheshgithub/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
