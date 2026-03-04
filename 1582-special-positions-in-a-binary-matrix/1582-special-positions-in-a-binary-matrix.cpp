@@ -1,7 +1,8 @@
 class Solution {
 public:
     int numSpecial(vector<vector<int>>& mat) {
-        int m = mat.size(), n = mat[0].size();
+        int m = mat.size();
+        int n = mat[0].size();
 
         vector<int> rows(m);
         vector<int> cols(n);
