@@ -73,6 +73,7 @@ Teachers Day Challenge:-
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/avadheshgithub/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/avadheshgithub/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/avadheshgithub/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/avadheshgithub/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/avadheshgithub/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -297,6 +298,7 @@ Teachers Day Challenge:-
 | [0647-palindromic-substrings](https://github.com/avadheshgithub/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/avadheshgithub/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/avadheshgithub/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/avadheshgithub/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Hash Table
 |  |
@@ -594,6 +596,7 @@ Teachers Day Challenge:-
 | [0003-longest-substring-without-repeating-characters](https://github.com/avadheshgithub/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/avadheshgithub/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/avadheshgithub/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/avadheshgithub/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/avadheshgithub/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Recursion
