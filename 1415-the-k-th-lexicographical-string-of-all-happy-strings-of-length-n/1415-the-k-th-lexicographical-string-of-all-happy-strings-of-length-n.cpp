@@ -13,7 +13,7 @@ public:
         }
 
         for(char c : {'a','b','c'}){
-            if(curr.empty() || curr.back() == c){
+            if(curr.empty() || curr.back() != c){
                 curr.push_back(c);
                 backtrack(curr, n, k);
                 curr.pop_back();
