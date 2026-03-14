@@ -69,6 +69,7 @@ Teachers Day Challenge:-
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/avadheshgithub/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/avadheshgithub/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/avadheshgithub/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/avadheshgithub/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/avadheshgithub/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/avadheshgithub/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -760,6 +761,7 @@ Teachers Day Challenge:-
 | [0046-permutations](https://github.com/avadheshgithub/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/avadheshgithub/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0090-subsets-ii) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/avadheshgithub/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Enumeration
 |  |
