@@ -6,6 +6,7 @@ public:
 
         if(C>G) return -1; 
         int start=0, RemGas=0; 
+        
         for(int i=0;i<gas.size();i++){
             if(RemGas<0){
                 RemGas=0;
