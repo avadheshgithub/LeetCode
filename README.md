@@ -183,6 +183,7 @@ Teachers Day Challenge:-
 | [3379-transformed-array](https://github.com/avadheshgithub/LeetCode/tree/master/3379-transformed-array) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/avadheshgithub/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/avadheshgithub/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/avadheshgithub/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/avadheshgithub/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/avadheshgithub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Stack
@@ -290,6 +291,7 @@ Teachers Day Challenge:-
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/avadheshgithub/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/avadheshgithub/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -600,6 +602,7 @@ Teachers Day Challenge:-
 | [0647-palindromic-substrings](https://github.com/avadheshgithub/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/avadheshgithub/LeetCode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/avadheshgithub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [3643-flip-square-submatrix-vertically](https://github.com/avadheshgithub/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bucket Sort
 |  |
 | ------- |
