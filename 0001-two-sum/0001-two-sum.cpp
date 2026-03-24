@@ -1,16 +1,20 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int,int>mp;
 
+        // better Optimized (Two Pointer & 2D vector)
+        vector<pair<int,int>>vec;
         for(int i=0;i<nums.size();i++){
-            int comp = target - nums[i];
-
-            if(mp.count(comp)){
-                return {i,mp[comp]};
-            }
-            mp[nums[i]] = i;
+            vec.push_back({nums[i],i});
         }
-        return {-1,-1};
+        sort(vec.begin(),vec.end());
+        int st = 0; int end = nums.size()-1;
+        while(st<end){
+            int sum = vec[st].first + vec[end].first;
+            if(sum==target) return {vec[st].second,vec[end].second};
+            else if (sum>target) end--;
+            else st++;
+        }
+        return {}; 
     }
 };
