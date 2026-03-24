@@ -1,20 +1,13 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-
-        // better Optimized (Two Pointer & 2D vector)
-        vector<pair<int,int>>vec;
-        for(int i=0;i<nums.size();i++){
-            vec.push_back({nums[i],i});
+        // Brute Force Approach
+        int n = nums.size();
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<n;j++){
+                if(nums[i]+nums[j]==target) return {i,j};
+            }
         }
-        sort(vec.begin(),vec.end());
-        int st = 0; int end = nums.size()-1;
-        while(st<end){
-            int sum = vec[st].first + vec[end].first;
-            if(sum==target) return {vec[st].second,vec[end].second};
-            else if (sum>target) end--;
-            else st++;
-        }
-        return {}; 
+        return {-1,-1};
     }
 };
