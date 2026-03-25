@@ -4,7 +4,7 @@
 </p>
 
 # Leetcode -🚀
-Welcome to my **Leetcode** repository! 🎉 This is where I solve and upload my solutions to Leetcode problems to sharpen my coding skills. 💻..
+Welcome to my **Leetcode** repository! 🎉 This is where I solve and upload my solutions to Leetcode problems to sharpen my coding skills. 💻
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/avadhesh_04)](https://leetcode.com/JacobLinCool)
 ## About 📚
