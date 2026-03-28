@@ -9,7 +9,7 @@ Welcome to my **Leetcode** repository! 🎉 This is where I solve and upload my 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/avadhesh_04)](https://leetcode.com/JacobLinCool)
 ## About 📚
 
-This repository contains my solutions to various **Leetcode problems**. I regularly practice, upload solutions to improve my problem-solving skills, and share my approaches with the communities.  
+This repository contains my solutions to various **Leetcode problems**. I regularly practice, upload solutions to improve my problem-solving skills, and share my approaches with the communities..  
 
 Teachers Day Challenge:-
 
