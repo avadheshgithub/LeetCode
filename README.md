@@ -11,7 +11,7 @@ Welcome to my **Leetcode** repository! 🎉 This is where I solve and upload my 
 
 This repository contains my solutions to various **Leetcode problems**. I regularly practice, upload solutions to improve my problem-solving skills, and share my approaches with the communities..  
 
-Teachers Day Challenge:-
+Teachers Day Challenge:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" height=200px width=200px alt="Leetcode Logo"
