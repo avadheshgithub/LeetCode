@@ -80,6 +80,7 @@ Teachers Day Challenge:
 | [1980-find-unique-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/avadheshgithub/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/avadheshgithub/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/avadheshgithub/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/avadheshgithub/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Prefix Sum
@@ -256,6 +257,7 @@ Teachers Day Challenge:
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/avadheshgithub/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/avadheshgithub/LeetCode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/avadheshgithub/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/avadheshgithub/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/avadheshgithub/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/avadheshgithub/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3745-maximize-expression-of-three-elements](https://github.com/avadheshgithub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -360,6 +362,7 @@ Teachers Day Challenge:
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/avadheshgithub/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1980-find-unique-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/avadheshgithub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/avadheshgithub/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Design
 |  |
