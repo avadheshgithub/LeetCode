@@ -1,9 +1,15 @@
 class Solution {
 public:
-    bool judgeCircle(string moves) {
-        return count(moves.begin(), moves.end(), 'U') ==
-           count(moves.begin(), moves.end(), 'D') &&
-           count(moves.begin(), moves.end(), 'L') ==
-           count(moves.begin(), moves.end(), 'R');
+    bool judgeCircle(string S) {
+        int x = 0, y = 0;
+
+        for(char c : S) {
+            if(c == 'U') y++;
+            else if(c == 'D') y--;
+            else if(c == 'R') x++;
+            else if(c == 'L') x--;
+        }
+
+        return (x == 0 && y == 0);
     }
 };
