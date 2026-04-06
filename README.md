@@ -159,6 +159,7 @@ Teachers Day Challenge:
 | [0733-flood-fill](https://github.com/avadheshgithub/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/avadheshgithub/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/avadheshgithub/LeetCode/tree/master/0853-car-fleet) |
+| [0874-walking-robot-simulation](https://github.com/avadheshgithub/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/avadheshgithub/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -362,6 +363,7 @@ Teachers Day Challenge:
 | [0621-task-scheduler](https://github.com/avadheshgithub/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0763-partition-labels](https://github.com/avadheshgithub/LeetCode/tree/master/0763-partition-labels) |
+| [0874-walking-robot-simulation](https://github.com/avadheshgithub/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/avadheshgithub/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/avadheshgithub/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -430,6 +432,7 @@ Teachers Day Challenge:
 | [0054-spiral-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/avadheshgithub/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/avadheshgithub/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1701-average-waiting-time](https://github.com/avadheshgithub/LeetCode/tree/master/1701-average-waiting-time) |
