@@ -13,10 +13,12 @@ public:
                 nums[i] = (1LL * nums[i] * v) % MOD;
             }
         }
+
         int ans = 0;
         for (int x : nums) {
             ans ^= x;
         }
+        
         return ans;
     }
 };
