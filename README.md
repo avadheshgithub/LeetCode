@@ -198,6 +198,7 @@ Teachers Day Challenge:
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/avadheshgithub/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/avadheshgithub/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/avadheshgithub/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/avadheshgithub/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/avadheshgithub/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/avadheshgithub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Stack
@@ -444,6 +445,7 @@ Teachers Day Challenge:
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avadheshgithub/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/avadheshgithub/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/avadheshgithub/LeetCode/tree/master/3379-transformed-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/avadheshgithub/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
 |  |
 | ------- |
@@ -493,6 +495,7 @@ Teachers Day Challenge:
 | [0912-sort-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/avadheshgithub/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/avadheshgithub/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Quickselect
 |  |
 | ------- |
