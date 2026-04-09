@@ -454,6 +454,7 @@ Teachers Day Challenge:
 | [0021-merge-two-sorted-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/avadheshgithub/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/avadheshgithub/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/avadheshgithub/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/avadheshgithub/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -624,6 +625,7 @@ Teachers Day Challenge:
 | [0027-remove-element](https://github.com/avadheshgithub/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/avadheshgithub/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/avadheshgithub/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/avadheshgithub/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/avadheshgithub/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/avadheshgithub/LeetCode/tree/master/0088-merge-sorted-array) |
