@@ -201,6 +201,7 @@ Teachers Day Challenge:
 | [3643-flip-square-submatrix-vertically](https://github.com/avadheshgithub/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/avadheshgithub/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/avadheshgithub/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/avadheshgithub/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/avadheshgithub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Stack
 |  |
@@ -379,6 +380,7 @@ Teachers Day Challenge:
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/avadheshgithub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/avadheshgithub/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/avadheshgithub/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Design
 |  |
 | ------- |
