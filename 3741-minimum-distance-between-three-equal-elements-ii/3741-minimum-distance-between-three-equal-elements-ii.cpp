@@ -13,7 +13,7 @@ public:
             vector<int> &v = it.second;
             if(v.size()<3) continue;
             
-            for(int i=0; i+2<v.size(); i++) { // sliding window
+            for(int i=0; i+2<v.size(); i++) { // 3 size sliding window
                 int dist = 2*(v[i+2]-v[i]);
                 ans = min(ans, dist);
             }
