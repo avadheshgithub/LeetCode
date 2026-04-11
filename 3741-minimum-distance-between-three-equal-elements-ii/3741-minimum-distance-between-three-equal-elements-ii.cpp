@@ -6,7 +6,6 @@ public:
         for (int i=0; i<Arr.size();i++) {
             mp[Arr[i]].push_back(i);
         }
-        
         int ans = INT_MAX;
 
         for (auto &it : mp) {
