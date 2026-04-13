@@ -178,6 +178,7 @@ Teachers Day Challenge:
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1701-average-waiting-time](https://github.com/avadheshgithub/LeetCode/tree/master/1701-average-waiting-time) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/avadheshgithub/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/avadheshgithub/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avadheshgithub/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/avadheshgithub/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1975-maximum-matrix-sum](https://github.com/avadheshgithub/LeetCode/tree/master/1975-maximum-matrix-sum) |
