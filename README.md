@@ -54,6 +54,7 @@ Teachers' Day Challenge:
 | [0005-longest-palindromic-substring](https://github.com/avadheshgithub/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/avadheshgithub/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/avadheshgithub/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/avadheshgithub/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/avadheshgithub/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/avadheshgithub/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/avadheshgithub/LeetCode/tree/master/0032-longest-valid-parentheses) |
@@ -98,6 +99,7 @@ Teachers' Day Challenge:
 | ------- |
 | [0001-two-sum](https://github.com/avadheshgithub/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/avadheshgithub/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/avadheshgithub/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/avadheshgithub/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/avadheshgithub/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avadheshgithub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -874,4 +876,8 @@ Teachers' Day Challenge:
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/avadheshgithub/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
