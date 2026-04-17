@@ -1,16 +1,16 @@
 class Solution {
 public:
-    vector<int> plusOne(vector<int>& dig) {
+    vector<int> plusOne(vector<int>& digits) {
 
-        for(int i=dig.size()-1;i>=0;i--){
-            if(dig[i]!=9){
-                dig[i]++;
-                return dig;
+        for(int i=digits.size()-1;i>=0;i--){
+            if(digits[i]!=9){
+                digits[i]++;
+                return digits;
             }
-            dig[i]=0;
+            digits[i]=0;
         }
-        dig.insert(dig.begin(),1);
+        digits.insert(digits.begin(),1);
 
-        return dig;
+        return digits;
     }
 };
