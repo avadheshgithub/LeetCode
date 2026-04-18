@@ -44,6 +44,7 @@ Teachers' Day Challenge:
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/avadheshgithub/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avadheshgithub/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3783-mirror-distance-of-an-integer](https://github.com/avadheshgithub/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Brainteaser
 |  |
 | ------- |
