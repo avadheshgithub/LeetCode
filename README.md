@@ -180,6 +180,7 @@ Teachers' Day Challenge:
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avadheshgithub/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/avadheshgithub/LeetCode/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avadheshgithub/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -317,6 +318,7 @@ Teachers' Day Challenge:
 | [0733-flood-fill](https://github.com/avadheshgithub/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/avadheshgithub/LeetCode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/avadheshgithub/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -741,6 +743,7 @@ Teachers' Day Challenge:
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/avadheshgithub/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/avadheshgithub/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/avadheshgithub/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
@@ -777,6 +780,7 @@ Teachers' Day Challenge:
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/avadheshgithub/LeetCode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/avadheshgithub/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
@@ -855,6 +859,7 @@ Teachers' Day Challenge:
 | [0547-number-of-provinces](https://github.com/avadheshgithub/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/avadheshgithub/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/avadheshgithub/LeetCode/tree/master/0695-max-area-of-island) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
