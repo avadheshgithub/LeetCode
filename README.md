@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Leetcode-Problems%20Solved-orange?logo=leetcode" alt="Leetcode Badge">
 </p>
 
-# Leetcode --
+# Leetcode -
 Welcome to my **Leetcode** repository! 🎉 This is where I solve and upload my solutions to Leetcode problems to sharpen my coding skills. 💻
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/avadhesh_04)](https://leetcode.com/JacobLinCool)
