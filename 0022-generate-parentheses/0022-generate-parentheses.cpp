@@ -1,17 +1,17 @@
 class Solution {
 public:
-    void paren(int open,int close,int n,string s,vector<string> &ans){
+    void generate(vector<string>& ans,string s, int open,int close,int n){
         if(close==n){
             ans.push_back(s);
             return;
         }
-        if (open<n)    paren(open+1,close,n,s+'(',ans);
-        if(close<open) paren(open,close+1,n,s+')',ans);
+        if(open<n)generate(ans, s+'(',open+1,close,n); // open
+        if(close<open) generate(ans, s+')',open,close+1,n); //close
     }
-
+    
     vector<string> generateParenthesis(int n) {
         vector<string>ans;
-        paren(0,0,n,"",ans);
+        generate(ans,"",0,0,n);
         return ans;
     }
 };
