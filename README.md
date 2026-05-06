@@ -188,6 +188,7 @@ Teachers' Day Challenge:
 | [1701-average-waiting-time](https://github.com/avadheshgithub/LeetCode/tree/master/1701-average-waiting-time) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/avadheshgithub/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/avadheshgithub/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1861-rotating-the-box](https://github.com/avadheshgithub/LeetCode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avadheshgithub/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/avadheshgithub/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1975-maximum-matrix-sum](https://github.com/avadheshgithub/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -323,6 +324,7 @@ Teachers' Day Challenge:
 | [1582-special-positions-in-a-binary-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/avadheshgithub/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/avadheshgithub/LeetCode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avadheshgithub/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/avadheshgithub/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -660,6 +662,7 @@ Teachers' Day Challenge:
 | [0647-palindromic-substrings](https://github.com/avadheshgithub/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/avadheshgithub/LeetCode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/avadheshgithub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1861-rotating-the-box](https://github.com/avadheshgithub/LeetCode/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/avadheshgithub/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bucket Sort
 |  |
