@@ -11,10 +11,4 @@ public:
     }
 };
 
-/*  ( OR AND ) 
-
-     rotate 1 bit left <<
-     to know what was origional bit --> n&1
-     
-*/
 
