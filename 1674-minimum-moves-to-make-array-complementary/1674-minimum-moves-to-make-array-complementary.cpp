@@ -21,8 +21,8 @@ public:
         int ans = INT_MAX;
         int moves = 0;
 
-        for (int s = 2; s <= 2 * limit; s++) {
-            moves += vec[s];
+        for (int i=2; i <= 2 * limit; i++) {
+            moves += vec[i];
             ans = min(ans, moves);
         }
 
