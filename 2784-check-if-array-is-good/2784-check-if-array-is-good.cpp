@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool isGood(vector<int>& nums) {
+        
         sort(nums.begin(), nums.end());
         int n = nums.size();
 
