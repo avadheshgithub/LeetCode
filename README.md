@@ -181,6 +181,7 @@ Teachers' Day Challenge:
 | [1046-last-stone-weight](https://github.com/avadheshgithub/LeetCode/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/avadheshgithub/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/avadheshgithub/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1306-jump-game-iii](https://github.com/avadheshgithub/LeetCode/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avadheshgithub/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/avadheshgithub/LeetCode/tree/master/1390-four-divisors) |
@@ -757,6 +758,7 @@ Teachers' Day Challenge:
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/avadheshgithub/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/avadheshgithub/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/avadheshgithub/LeetCode/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/avadheshgithub/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -795,6 +797,7 @@ Teachers' Day Challenge:
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/avadheshgithub/LeetCode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/avadheshgithub/LeetCode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/avadheshgithub/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
