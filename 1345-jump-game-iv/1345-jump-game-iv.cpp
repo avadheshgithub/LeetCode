@@ -26,16 +26,16 @@ public:
                 if (idx == n - 1)
                     return steps;
 
-                vector<int> neighbors;
+                vector<int> neigh;
 
                 for (int x : mp[arr[idx]]) {
-                    neighbors.push_back(x);
+                    neigh.push_back(x);
                 }
 
-                neighbors.push_back(idx - 1);
-                neighbors.push_back(idx + 1);
+                neigh.push_back(idx - 1);
+                neigh.push_back(idx + 1);
 
-                for (int next : neighbors) {
+                for (int next : neigh) {
                     if (next >= 0 && next < n && !visited[next]) {
                         visited[next] = true;
                         q.push(next);
