@@ -207,6 +207,7 @@ Teachers' Day Challenge:
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/avadheshgithub/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/avadheshgithub/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2540-minimum-common-value](https://github.com/avadheshgithub/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2784-check-if-array-is-good](https://github.com/avadheshgithub/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -310,6 +311,7 @@ Teachers' Day Challenge:
 | [0540-single-element-in-a-sorted-array](https://github.com/avadheshgithub/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/avadheshgithub/LeetCode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2540-minimum-common-value](https://github.com/avadheshgithub/LeetCode/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
@@ -406,6 +408,7 @@ Teachers' Day Challenge:
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/avadheshgithub/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/avadheshgithub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2540-minimum-common-value](https://github.com/avadheshgithub/LeetCode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/avadheshgithub/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/avadheshgithub/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -677,6 +680,7 @@ Teachers' Day Challenge:
 | [0763-partition-labels](https://github.com/avadheshgithub/LeetCode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/avadheshgithub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/avadheshgithub/LeetCode/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/avadheshgithub/LeetCode/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/avadheshgithub/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bucket Sort
 |  |
