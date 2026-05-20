@@ -209,6 +209,7 @@ Teachers' Day Challenge:
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/avadheshgithub/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2540-minimum-common-value](https://github.com/avadheshgithub/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/avadheshgithub/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2784-check-if-array-is-good](https://github.com/avadheshgithub/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avadheshgithub/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -409,6 +410,7 @@ Teachers' Day Challenge:
 | [1980-find-unique-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/avadheshgithub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2540-minimum-common-value](https://github.com/avadheshgithub/LeetCode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/avadheshgithub/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/avadheshgithub/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/avadheshgithub/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -848,6 +850,7 @@ Teachers' Day Challenge:
 | [1009-complement-of-base-10-integer](https://github.com/avadheshgithub/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avadheshgithub/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/avadheshgithub/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/avadheshgithub/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/avadheshgithub/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Combinatorics
 |  |
