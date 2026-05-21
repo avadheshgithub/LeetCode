@@ -5,10 +5,10 @@ public:
         
         for (int x : arr1) {
             string s = to_string(x);
-            string pref = "";
+            string Pf = "";
             for (char c : s) {
-                pref += c;
-                pre.insert(pref);
+                Pf += c;
+                pre.insert(Pf);
             }
         }
 
@@ -16,10 +16,10 @@ public:
         
         for (int y : arr2) {
             string s = to_string(y);
-            string pref = "";
+            string Pf = "";
             for (char c : s) {
-                pref += c;
-                if (pre.count(pref)) ans = max(ans, (int)pref.size());
+                Pf += c;
+                if (pre.count(Pf)) ans = max(ans, (int)Pf.size());
             }
         }
         return ans;
