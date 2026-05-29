@@ -44,6 +44,7 @@ Teachers' Day Challenge:-
 | [1390-four-divisors](https://github.com/avadheshgithub/LeetCode/tree/master/1390-four-divisors) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/avadheshgithub/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avadheshgithub/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/avadheshgithub/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/avadheshgithub/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Brainteaser
@@ -219,6 +220,7 @@ Teachers' Day Challenge:-
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avadheshgithub/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/avadheshgithub/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/avadheshgithub/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/avadheshgithub/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/avadheshgithub/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/avadheshgithub/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/avadheshgithub/LeetCode/tree/master/3379-transformed-array) |
