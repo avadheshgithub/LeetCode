@@ -46,6 +46,7 @@ Teachers' Day Challenge:-
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avadheshgithub/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/avadheshgithub/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/avadheshgithub/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Brainteaser
 |  |
@@ -388,6 +389,7 @@ Teachers' Day Challenge:-
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/avadheshgithub/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
