@@ -52,6 +52,7 @@ Teachers' Day Challenge:-
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/avadheshgithub/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/avadheshgithub/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/avadheshgithub/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
 | ------- |
@@ -252,6 +253,7 @@ Teachers' Day Challenge:-
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/avadheshgithub/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/avadheshgithub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/avadheshgithub/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -325,6 +327,7 @@ Teachers' Day Challenge:-
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/avadheshgithub/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/avadheshgithub/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3745-maximize-expression-of-three-elements](https://github.com/avadheshgithub/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/avadheshgithub/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -532,6 +535,7 @@ Teachers' Day Challenge:-
 | [3354-make-array-elements-equal-to-zero](https://github.com/avadheshgithub/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/avadheshgithub/LeetCode/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/avadheshgithub/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/avadheshgithub/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -731,6 +735,7 @@ Teachers' Day Challenge:-
 | [2540-minimum-common-value](https://github.com/avadheshgithub/LeetCode/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/avadheshgithub/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/avadheshgithub/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -971,6 +976,7 @@ Teachers' Day Challenge:-
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/avadheshgithub/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/avadheshgithub/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/avadheshgithub/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/avadheshgithub/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Ordered Set
 |  |
 | ------- |
