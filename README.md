@@ -45,6 +45,7 @@ Teachers' Day Challenge:-
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/avadheshgithub/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avadheshgithub/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/avadheshgithub/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/avadheshgithub/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/avadheshgithub/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/avadheshgithub/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -111,6 +112,7 @@ Teachers' Day Challenge:-
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/avadheshgithub/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/avadheshgithub/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/avadheshgithub/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3312-sorted-gcd-pair-queries](https://github.com/avadheshgithub/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/avadheshgithub/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -237,6 +239,7 @@ Teachers' Day Challenge:-
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/avadheshgithub/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/avadheshgithub/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/avadheshgithub/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/avadheshgithub/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/avadheshgithub/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/avadheshgithub/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/avadheshgithub/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -346,6 +349,7 @@ Teachers' Day Challenge:-
 | [0704-binary-search](https://github.com/avadheshgithub/LeetCode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2540-minimum-common-value](https://github.com/avadheshgithub/LeetCode/tree/master/2540-minimum-common-value) |
+| [3312-sorted-gcd-pair-queries](https://github.com/avadheshgithub/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/avadheshgithub/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/avadheshgithub/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -458,6 +462,7 @@ Teachers' Day Challenge:-
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/avadheshgithub/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/avadheshgithub/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/avadheshgithub/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/avadheshgithub/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/avadheshgithub/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/avadheshgithub/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -491,6 +496,7 @@ Teachers' Day Challenge:-
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/avadheshgithub/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/avadheshgithub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2833-furthest-point-from-origin](https://github.com/avadheshgithub/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3312-sorted-gcd-pair-queries](https://github.com/avadheshgithub/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greedy
 |  |
 | ------- |
@@ -910,6 +916,7 @@ Teachers' Day Challenge:-
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/avadheshgithub/LeetCode/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/avadheshgithub/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Backtracking
 |  |
 | ------- |
@@ -974,6 +981,7 @@ Teachers' Day Challenge:-
 |  |
 | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/avadheshgithub/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [3312-sorted-gcd-pair-queries](https://github.com/avadheshgithub/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/avadheshgithub/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/avadheshgithub/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avadheshgithub/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
