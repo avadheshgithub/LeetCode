@@ -2,9 +2,7 @@ class Solution {
 public:
     string smallestPalindrome(string s) {
         vector<int> freq(26, 0);
-        
         for (char c:s)  freq[c-'a']++;
-        
         
         string half = "";
         char mid = 0; 
