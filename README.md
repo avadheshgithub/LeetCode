@@ -39,6 +39,7 @@ Teachers' Day Challenge:-
 | [0319-bulb-switcher](https://github.com/avadheshgithub/LeetCode/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/avadheshgithub/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/avadheshgithub/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/avadheshgithub/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avadheshgithub/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/avadheshgithub/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -190,6 +191,7 @@ Teachers' Day Challenge:-
 | [0435-non-overlapping-intervals](https://github.com/avadheshgithub/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/avadheshgithub/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/avadheshgithub/LeetCode/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/avadheshgithub/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/avadheshgithub/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/avadheshgithub/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/avadheshgithub/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -441,6 +443,7 @@ Teachers' Day Challenge:-
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/avadheshgithub/LeetCode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/avadheshgithub/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/avadheshgithub/LeetCode/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/avadheshgithub/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/avadheshgithub/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/avadheshgithub/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -817,6 +820,7 @@ Teachers' Day Challenge:-
 | [0206-reverse-linked-list](https://github.com/avadheshgithub/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/avadheshgithub/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/avadheshgithub/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/avadheshgithub/LeetCode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Depth-First Search
 |  |
@@ -1039,4 +1043,8 @@ Teachers' Day Challenge:-
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/avadheshgithub/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
