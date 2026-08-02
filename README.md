@@ -41,6 +41,7 @@ Teachers' Day Challenge:-
 | [0380-insert-delete-getrandom-o1](https://github.com/avadheshgithub/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/avadheshgithub/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avadheshgithub/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/avadheshgithub/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/avadheshgithub/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/avadheshgithub/LeetCode/tree/master/1390-four-divisors) |
@@ -205,6 +206,7 @@ Teachers' Day Challenge:-
 | [0739-daily-temperatures](https://github.com/avadheshgithub/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/avadheshgithub/LeetCode/tree/master/0853-car-fleet) |
 | [0874-walking-robot-simulation](https://github.com/avadheshgithub/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/avadheshgithub/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/avadheshgithub/LeetCode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/avadheshgithub/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -446,6 +448,7 @@ Teachers' Day Challenge:-
 | [0486-predict-the-winner](https://github.com/avadheshgithub/LeetCode/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/avadheshgithub/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/avadheshgithub/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/avadheshgithub/LeetCode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/avadheshgithub/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/avadheshgithub/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1047,4 +1050,5 @@ Teachers' Day Challenge:-
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/avadheshgithub/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/avadheshgithub/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
