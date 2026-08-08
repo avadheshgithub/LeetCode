@@ -118,6 +118,7 @@ Teachers' Day Challenge:-
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/avadheshgithub/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/avadheshgithub/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avadheshgithub/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/avadheshgithub/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -462,6 +463,7 @@ Teachers' Day Challenge:-
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/avadheshgithub/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/avadheshgithub/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avadheshgithub/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/avadheshgithub/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/avadheshgithub/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -569,6 +571,7 @@ Teachers' Day Challenge:-
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/avadheshgithub/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/avadheshgithub/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avadheshgithub/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/avadheshgithub/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -790,6 +793,7 @@ Teachers' Day Challenge:-
 | [0876-middle-of-the-linked-list](https://github.com/avadheshgithub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/avadheshgithub/LeetCode/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/avadheshgithub/LeetCode/tree/master/2540-minimum-common-value) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avadheshgithub/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/avadheshgithub/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avadheshgithub/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
