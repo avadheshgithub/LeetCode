@@ -43,6 +43,7 @@ Teachers' Day Challenge:-
 | [0628-maximum-product-of-three-numbers](https://github.com/avadheshgithub/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/avadheshgithub/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/avadheshgithub/LeetCode/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/avadheshgithub/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/avadheshgithub/LeetCode/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/avadheshgithub/LeetCode/tree/master/1406-stone-game-iii) |
@@ -128,6 +129,7 @@ Teachers' Day Challenge:-
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/avadheshgithub/LeetCode/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/avadheshgithub/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/avadheshgithub/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/avadheshgithub/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -217,6 +219,7 @@ Teachers' Day Challenge:-
 | [0973-k-closest-points-to-origin](https://github.com/avadheshgithub/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/avadheshgithub/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/avadheshgithub/LeetCode/tree/master/1046-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/avadheshgithub/LeetCode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/avadheshgithub/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/avadheshgithub/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/avadheshgithub/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -457,6 +460,7 @@ Teachers' Day Challenge:-
 | [0647-palindromic-substrings](https://github.com/avadheshgithub/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/avadheshgithub/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/avadheshgithub/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/avadheshgithub/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/avadheshgithub/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/avadheshgithub/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/avadheshgithub/LeetCode/tree/master/1406-stone-game-iii) |
@@ -1068,5 +1072,14 @@ Teachers' Day Challenge:-
 | ------- |
 | [0486-predict-the-winner](https://github.com/avadheshgithub/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/avadheshgithub/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/avadheshgithub/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/avadheshgithub/LeetCode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/avadheshgithub/LeetCode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/avadheshgithub/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
