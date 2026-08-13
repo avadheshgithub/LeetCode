@@ -110,6 +110,7 @@ Teachers' Day Challenge:-
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/avadheshgithub/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/avadheshgithub/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/avadheshgithub/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/avadheshgithub/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2833-furthest-point-from-origin](https://github.com/avadheshgithub/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/avadheshgithub/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -256,6 +257,7 @@ Teachers' Day Challenge:-
 | [2073-time-needed-to-buy-tickets](https://github.com/avadheshgithub/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/avadheshgithub/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/avadheshgithub/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/avadheshgithub/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/avadheshgithub/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/avadheshgithub/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2540-minimum-common-value](https://github.com/avadheshgithub/LeetCode/tree/master/2540-minimum-common-value) |
@@ -1063,6 +1065,7 @@ Teachers' Day Challenge:-
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/avadheshgithub/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/avadheshgithub/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Trie
 |  |
@@ -1072,6 +1075,7 @@ Teachers' Day Challenge:-
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/avadheshgithub/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/avadheshgithub/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Game Theory
 |  |
