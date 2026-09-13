@@ -216,6 +216,7 @@ Teachers' Day Challenge:-
 | [0704-binary-search](https://github.com/avadheshgithub/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/avadheshgithub/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/avadheshgithub/LeetCode/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/avadheshgithub/LeetCode/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/avadheshgithub/LeetCode/tree/master/0853-car-fleet) |
 | [0874-walking-robot-simulation](https://github.com/avadheshgithub/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/avadheshgithub/LeetCode/tree/master/0877-stone-game) |
@@ -427,6 +428,7 @@ Teachers' Day Challenge:-
 | [0463-island-perimeter](https://github.com/avadheshgithub/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/avadheshgithub/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/avadheshgithub/LeetCode/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/avadheshgithub/LeetCode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/avadheshgithub/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/avadheshgithub/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/avadheshgithub/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
